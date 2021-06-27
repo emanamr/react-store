@@ -45,7 +45,8 @@ function OrderScreen(props) {
           <div>
             <h3>Payment</h3>
             <div>
-              Payment Method: cash payment{/*order.payment.paymentMethod*/}
+              Payment Method: cash payment
+              {/*payment cash  order.payment.paymentMethod*/}
             </div>
             <div>
               {/*order.isPaid ? "Paid at " + order.paidAt : "Not Paid."*/}
